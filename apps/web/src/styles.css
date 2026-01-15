@@ -1,0 +1,15 @@
+/* styles.css */
+:root {
+  --neon-green: #00ff9c;
+  --neon-green-soft: #00ff9c33;
+  --bg-black: #0b0b0b;
+  --text-white: #eaeaea;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-black);
+  color: var(--text-white);
+  font-family: 'Inter', system-ui, sans-serif;
+}
